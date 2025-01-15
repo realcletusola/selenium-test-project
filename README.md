@@ -56,7 +56,7 @@ More test projects will be added as the project progresses.
 
 ## Run tests
     mvn test
-    
+
 ## Run a particular test 
     mvn -Dtest=TestClassName test 
 
@@ -69,4 +69,4 @@ Contributions are welcome! Feel free to fork the repository, make improvements, 
 3. Integration with CI/CD pipelines for automated test execution.
 
 ## License 
-    This  project is licensed under the MIT License.
+    This project is licensed under the MIT License.
