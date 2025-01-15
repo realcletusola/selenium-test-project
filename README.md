@@ -55,10 +55,12 @@ More test projects will be added as the project progresses.
     mvn clean install
 
 ## Run tests
-    mvn test or mvn -Dtest=TestClassName test (use this to run a specific test)
+    mvn test
+run a specific test using the test class name 
+    mvn -Dtest=TestClassName test 
 
 ## Contributing 
-    Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
+Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
 
 ## Future Updates
 1. Additional test scenarios for enchanced coverage.
