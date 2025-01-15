@@ -1,0 +1,63 @@
+# Compiled Java classes
+*.class
+
+# Log files
+*.log
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Eclipse files
+.project
+.classpath
+.settings/
+bin/
+
+# NetBeans files
+nbproject/
+build/
+dist/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle
+.gradle/
+build/
+
+# Logs
+logs/
+*.log
+*.out
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Selenium WebDriver specific
+selenium-standalone-server-*.jar
+chromedriver.exe
+geckodriver.exe
+IEDriverServer.exe
+MicrosoftWebDriver.exe
+webdriver.log
+
+# Test reports
+test-output/
+surefire-reports/
