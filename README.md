@@ -10,6 +10,7 @@ This project is actively maintained and will be regularly updated with new test 
 3. [Test Projects](#test-projects)
    - [Test Project 1: Keyboard and mouse input test](#test-project-1-keyboard-and-mouse-input-test)
    - [Test Project 2: AutoComplete Test](#test-project-2-autocomplete-test)
+   - [Test Project 3: Scroll To Element Test](#test-project-3-scroll-to-element-test)
    <!-- - [Test Project 3: Search Functionality Test](#test-project-3-search-functionality-test) -->
 4. [Setup and Installation](#setup-and-installation)
 5. [Usage](#usage)
@@ -37,6 +38,9 @@ This project is actively maintained and will be regularly updated with new test 
 
 2. **Autocomplete Test**
    - Automates form address form, taking advantage of the autocomple functionality.
+
+3. **Scroll To Element Test**
+   - Use of Actions to move to new elements
 
 <!-- 3. **Search Functionality Test**
    - Tests the search feature with various keywords.
