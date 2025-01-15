@@ -56,8 +56,9 @@ More test projects will be added as the project progresses.
 
 ## Run tests
     mvn test
-run a specific test using the test class name 
-      mvn -Dtest=TestClassName test 
+    
+## Run a particular test 
+    mvn -Dtest=TestClassName test 
 
 ## Contributing 
 Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
