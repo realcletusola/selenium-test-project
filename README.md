@@ -11,6 +11,8 @@ This project is actively maintained and will be regularly updated with new test 
    - [Test Project 1: Keyboard and mouse input test](#test-project-1-keyboard-and-mouse-input-test)
    - [Test Project 2: AutoComplete Test](#test-project-2-autocomplete-test)
    - [Test Project 3: Scroll To Element Test](#test-project-3-scroll-to-element-test)
+   - [Test Project 4: Switch to active window test](#test-project-5-switch-to-active-window-test)
+   - [Test Project 5: Switch to alert](#test-project-5-switch-to-alert)
    <!-- - [Test Project 3: Search Functionality Test](#test-project-3-search-functionality-test) -->
 4. [Setup and Installation](#setup-and-installation)
 5. [Usage](#usage)
@@ -41,6 +43,12 @@ This project is actively maintained and will be regularly updated with new test 
 
 3. **Scroll To Element Test**
    - Use of Actions to move to new elements
+
+4. **Switch To Active Window Test**
+   - Open new window 
+
+5. **Switch To Alert**
+   - Click alert button
 
 <!-- 3. **Search Functionality Test**
    - Tests the search feature with various keywords.
