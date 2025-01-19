@@ -13,6 +13,7 @@ import  org.openqa.selenium.interactions.Actions;
 public class ScrollToElementTest {
     @Test
     public void testScrollElementTest() {
+        // set driver location 
         System.setProperty("webdriver.chrome.driver", "/usr/local/bin/chromedriver");
 
         ChromeOptions options = new ChromeOptions();

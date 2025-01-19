@@ -12,6 +12,7 @@ public class SwitchToActiveWindowTest {
 
     @Test
     public void testSwitchToActionWindowTest() {
+        // set driver location 
         System.setProperty("webdriver.chrome.driver", "/usr/local/bin/chromedriver");
 
         ChromeOptions options = new ChromeOptions();

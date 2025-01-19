@@ -13,6 +13,7 @@ public class SwitchToAlertTest {
     
     @Test
     public void testSwitchToAlertTest() {
+        // set driver location 
         System.setProperty("webdriver.chrome.driver", "/usr/local/bin/chromedriver");
 
         ChromeOptions options = new ChromeOptions();

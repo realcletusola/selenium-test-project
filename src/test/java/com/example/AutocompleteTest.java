@@ -10,6 +10,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 public class AutocompleteTest {
     @Test
     public void testAutocomplete() throws InterruptedException  {
+        // set driver location 
         System.setProperty("webdriver.chrome.driver", "/usr/local/bin/chromedriver");
 
         ChromeOptions options = new ChromeOptions();
