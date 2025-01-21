@@ -16,6 +16,7 @@ This project is actively maintained and will be regularly updated with new test 
    - [Test Project 6: Execute Javascript](#test-project-6-execute-javascript)
    - [Test Project 7: Drag and Drop](#test-project-7-drag-and-drop)
    - [Test Project 8: Radio Button](#test-project-8-radio-button-test)
+   - [Test Project 9: Date Picker](#test-project-9-date-picker)
    <!-- - [Test Project 3: Search Functionality Test](#test-project-3-search-functionality-test) -->
 4. [Setup and Installation](#setup-and-installation)
 5. [Usage](#usage)
@@ -60,7 +61,10 @@ This project is actively maintained and will be regularly updated with new test 
    - Use selenium to drag and drop objects on a web page
 
 8. **Radio Button Test**
-   - Test multiple radio buttons using 3 different approach
+   - Test multiple radio buttons and check boxes using 3 different approach
+
+9. **Date Picker**
+   - Automate date selection
 
 <!-- 3. **Search Functionality Test**
    - Tests the search feature with various keywords.
