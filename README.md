@@ -17,6 +17,7 @@ This project is actively maintained and will be regularly updated with new test 
    - [Test Project 7: Drag and Drop](#test-project-7-drag-and-drop)
    - [Test Project 8: Radio Button](#test-project-8-radio-button-test)
    - [Test Project 9: Date Picker](#test-project-9-date-picker)
+   - [Test Project 10: Drop Down Menu](#test-project-10-drop-down-menu)
    <!-- - [Test Project 3: Search Functionality Test](#test-project-3-search-functionality-test) -->
 4. [Setup and Installation](#setup-and-installation)
 5. [Usage](#usage)
@@ -65,6 +66,9 @@ This project is actively maintained and will be regularly updated with new test 
 
 9. **Date Picker**
    - Automate date selection
+
+10. **Drop Down Menu**
+   - Select item from a dropdwon menu
 
 <!-- 3. **Search Functionality Test**
    - Tests the search feature with various keywords.

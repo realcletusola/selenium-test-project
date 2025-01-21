@@ -13,9 +13,11 @@ public class AutocompleteTest {
         // set driver location 
         System.setProperty("webdriver.chrome.driver", "/usr/local/bin/chromedriver");
 
+        // set chrome options to allow requests from any origin 
         ChromeOptions options = new ChromeOptions();
         options.addArguments("--remote-allow-origins=*");
 
+        // configure driver with options 
         WebDriver driver = new ChromeDriver(options);
         driver.get("https://formy-project.herokuapp.com/autocomplete");
 
