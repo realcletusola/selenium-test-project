@@ -21,6 +21,8 @@ This project is actively maintained and will be regularly updated with new test 
    - [Test Project 11: File Upload](#test-project-11-file-upload)
    - [Test Project 12: Implicit Wait](#test-project-12-implicit-wait)
    - [Test Project 13: Explicit Wait](#test-project-13-explicit-wait)
+   - [Test Project 14: Form Test](#test-project-14-form-test)
+   - [Test Project 15: Form Test 2](#test-project-15-form-test-2)
    <!-- - [Test Project 3: Search Functionality Test](#test-project-3-search-functionality-test) -->
 4. [Setup and Installation](#setup-and-installation)
 5. [Usage](#usage)
@@ -81,6 +83,12 @@ This project is actively maintained and will be regularly updated with new test 
 
 13. **Explicit Wait**
    - Using Explicit Wait
+
+14. **Form Test**
+   - Fill a complete form
+
+15. **Form Test 2**
+   - Use explicit wait to get success result after submitting a form
 
 <!-- 3. **Search Functionality Test**
    - Tests the search feature with various keywords.
